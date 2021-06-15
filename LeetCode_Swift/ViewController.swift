@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     func test() {
-        Num279().test()
+        Num852().test()
     }
     
 }
