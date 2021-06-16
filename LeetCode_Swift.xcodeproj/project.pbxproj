@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D20A1AA326784678006EDE8B /* Num852.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20A1AA226784678006EDE8B /* Num852.swift */; };
+		D28A9DA42679968700656FA8 /* Num877.swift in Sources */ = {isa = PBXBuildFile; fileRef = D28A9DA32679968700656FA8 /* Num877.swift */; };
 		D2AA91DC2671B326008E5B9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AA91DB2671B326008E5B9C /* AppDelegate.swift */; };
 		D2AA91DE2671B326008E5B9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AA91DD2671B326008E5B9C /* SceneDelegate.swift */; };
 		D2AA91E02671B326008E5B9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2AA91DF2671B326008E5B9C /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		D20A1AA226784678006EDE8B /* Num852.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Num852.swift; sourceTree = "<group>"; };
+		D28A9DA32679968700656FA8 /* Num877.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Num877.swift; sourceTree = "<group>"; };
 		D2AA91D82671B326008E5B9C /* LeetCode_Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode_Swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2AA91DB2671B326008E5B9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D2AA91DD2671B326008E5B9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				D2E6D9C72672FF2D007AEE6B /* Num279.swift */,
 				D2AA91F12671B365008E5B9C /* Num518.swift */,
 				D20A1AA226784678006EDE8B /* Num852.swift */,
+				D28A9DA32679968700656FA8 /* Num877.swift */,
 			);
 			path = Question;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				D2AA91DC2671B326008E5B9C /* AppDelegate.swift in Sources */,
 				D2E6D97A2671F338007AEE6B /* Num70.swift in Sources */,
 				D2AA91DE2671B326008E5B9C /* SceneDelegate.swift in Sources */,
+				D28A9DA42679968700656FA8 /* Num877.swift in Sources */,
 				D20A1AA326784678006EDE8B /* Num852.swift in Sources */,
 				D2E6D9C82672FF2D007AEE6B /* Num279.swift in Sources */,
 			);
