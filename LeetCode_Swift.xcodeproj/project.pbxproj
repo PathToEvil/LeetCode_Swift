@@ -22,6 +22,8 @@
 
 /* Begin PBXFileReference section */
 		D20A1AA226784678006EDE8B /* Num852.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Num852.swift; sourceTree = "<group>"; };
+		D217272A268497F700F9154C /* LeetCode_SwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetCode_SwiftTests.swift; sourceTree = "<group>"; };
+		D217272C268497F700F9154C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D28A9DA32679968700656FA8 /* Num877.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Num877.swift; sourceTree = "<group>"; };
 		D2AA91D82671B326008E5B9C /* LeetCode_Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode_Swift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2AA91DB2671B326008E5B9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -47,10 +49,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D2172729268497F700F9154C /* LeetCode_SwiftTests */ = {
+			isa = PBXGroup;
+			children = (
+				D217272A268497F700F9154C /* LeetCode_SwiftTests.swift */,
+				D217272C268497F700F9154C /* Info.plist */,
+			);
+			path = LeetCode_SwiftTests;
+			sourceTree = "<group>";
+		};
 		D2AA91CF2671B326008E5B9C = {
 			isa = PBXGroup;
 			children = (
 				D2AA91DA2671B326008E5B9C /* LeetCode_Swift */,
+				D2172729268497F700F9154C /* LeetCode_SwiftTests */,
 				D2AA91D92671B326008E5B9C /* Products */,
 			);
 			sourceTree = "<group>";
